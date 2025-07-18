@@ -8,7 +8,7 @@ This is a simple front-end currency calculator built with HTML, CSS, and JavaScr
 - Responsive and clean design
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## Technologies Used
 - HTML
@@ -20,4 +20,4 @@ This is a simple front-end currency calculator built with HTML, CSS, and JavaScr
 2. Open `index.html` in your browser
 
 ## Live Preview
-[https://Momina45.github.io/currencyCalculator/](#) 
+[https://Momina45.github.io/currencyCalculator/] 
